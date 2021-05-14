@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(45deg,#BDF400,#98B72E,#7B9E00,#CFF93E,#DBF970);
+    min-height: 100vh;
+}
+img{
+    padding: 15px;
+}
+.container-xxl{
+    min-height: calc(100vh - 80px);
+}
+
+.photo__albom{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.img__title{
+    font-size: 18px;
+}
+.news{
+    text-align: center;
+}
+.news__text{
+    text-align: left;
+}
